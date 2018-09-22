@@ -1,0 +1,53 @@
+Ayer and Tyedmers 2009	Fish	Farmed	Salmon	8.115	*	0.625	*	0.005	*	0.011	*
+Carlsson-Kanyama et al. 2003	Fish	Farmed	Salmon	15.204	*	--	--	--	--	--	--
+Ellingsen et al. 2006	Fish	Farmed	Salmon	--	--	0.451	*	--	--	--	--
+Hall et al. 2011	Fish	Farmed	Carp	35.371	36.62	2.534	2.493	0.016	0.015	0.058	0.025
+Hall et al. 2011	Fish	Farmed	Catfish	92.036	64.745	8.29	4.867	0.056	0.03	0.052	0.023
+Hall et al. 2011	Fish	Farmed	Molluscs	3.628	2.046	0.198	0.206	0.019	0.046	-0.015	0
+Hall et al. 2011	Fish	Farmed	Salmon	7.603	0.742	0.49	0.079	0.003	0.001	0.023	0.001
+Hall et al. 2011	Fish	Farmed	Shrimp	61.326	51.946	5.993	5.105	0.052	0.057	0.034	0.018
+Hall et al. 2011	Fish	Farmed	Tilapia	32.795	20.684	3.002	2.565	0.018	0.012	0.055	0.021
+Iribarren et al. 2010	Fish	Farmed	Molluscs	--	--	0.529	0	0.005	0	0	0
+Nielsen et al. 2003	Fish	Farmed	Salmon	--	--	0.692	*	0.004	*	0.042	*
+Lebel et al. 2010	Fish	Farmed	Shrimp	10.144	3.953	--	--	--	--	--	--
+Ling et al. 1999	Fish	Farmed	Shrimp	27.197	*	2.335	*	0.019	*	0.028	*
+Pelletier et al. 2009	Fish	Farmed	Salmon	10.445	2.814	0.734	0.186	0.007	0.002	0.017	0.004
+Driscoll and Tyedmers 2010	Fish	Wild	Small Pelagic	1.2	0.778	0.096	0.062	--	--	--	--
+Driscoll et al. 2015	Fish	Wild	Invertebrate	36.414	6.158	2.446	0.284	0.028	0.004	--	--
+Farmery et al. 2015	Fish	Wild	Shrimp	27.874	*	7.14	7.414	--	--	0.004	*
+Fréon et al. 2014	Fish	Wild	Small Pelagic	0	*	0.024	*	0	*	0	*
+Hospido and Tyedmers 2005	Fish	Wild	Large Pelagic	--	--	0.655	*	0.009	*	0.001	*
+Iribarren et al. 2011	Fish	Wild	Large Pelagic	--	--	0.587	0.092	--	--	--	--
+Nielsen et al. 2003	Fish	Wild	Invertebrate	--	--	5.463	7.663	0.068	0.095	0.048	0.067
+Nielsen et al. 2003	Fish	Wild	Shrimp	--	--	1.3	*	0.017	*	0.012	*
+Nielsen et al. 2003	Fish	Wild	Small Pelagic	--	--	0.152	0.094	0.002	0.001	0.001	0.001
+Nielsen et al. 2003	Fish	Wild	Whitefish	--	--	1.452	1.291	0.017	0.016	0.013	0.011
+Svanes et al. 2011	Fish	Wild	Whitefish	4.27	*	--	--	--	--	--	--
+Vazquez-Rowe et al. 2010	Fish	Wild	Small Pelagic	--	--	0.769	0.524	0.009	0.006	0.002	0.001
+Vazquez-Rowe et al. 2011	Fish	Wild	Whitefish	--	--	0.004	0.001	0	0	0	0
+Vazquez-Rowe et al. 2012	Fish	Wild	Invertebrate	--	--	2.085	*	0.026	*	0.005	*
+Ziegler and Valentinsson 2008	Fish	Wild	Invertebrate	--	--	17.293	11.771	0.101	0.075	0.038	0.039
+Ziegler et al. 2003	Fish	Wild	Whitefish	14.562	*	--	--	--	--	--	--
+Basset-Mens and van der Werf 2005	Livestock	Farmed	Pork	8.588	*	1.242	*	0.023	*	0.011	*
+Beauchemin et al. 2011	Livestock	Farmed	Beef	--	--	6.651	*	--	--	--	--
+Blonk et al. 1997	Livestock	Farmed	Pork	8.642	*	1.998	*	0.017	*	0.01	*
+Capper 2011	Livestock	Farmed	Beef	2.697	*	4.904	*	--	--	--	--
+Cederberg and Darelius 2002	Livestock	Farmed	Beef	9.195	*	3.908	*	--	--	0.782	*
+González-Garcia et al. 2014	Livestock	Farmed	Chicken	3.978	*	0.538	*	0.01	*	0.004	*
+González-Garcia et al. 2015	Livestock	Farmed	Pork	0	*	1.011	*	0.009	*	0	*
+Huerta et al. 2016	Livestock	Farmed	Beef	--	--	4.437	*	--	--	--	--
+Nielsen et al. 2003	Livestock	Farmed	Beef	--	--	5.644	*	0.057	*	0.202	*
+Nielsen et al. 2003	Livestock	Farmed	Chicken	--	--	1	*	0.018	*	0.034	*
+Nielsen et al. 2003	Livestock	Farmed	Pork	--	--	1.215	*	0.022	*	0.048	*
+Lupo et al. 2013	Livestock	Farmed	Beef	--	--	7.05	*	0.101	*	0.013	*
+Mogensen et al. 2015	Livestock	Farmed	Beef	--	--	5.115	2.404	--	--	--	--
+Ogino et al. 2007	Livestock	Farmed	Beef	38.851	*	8.368	*	0.078	*	0.014	*
+Ogino et al. 2016	Livestock	Farmed	Beef	5.498	*	5.157	*	0.03	*	0.017	*
+Pelletier et al. 2008	Livestock	Farmed	Chicken	8.042	*	0.75	*	0.008	*	0.002	*
+Pelletier et al. 2010	Livestock	Farmed	Beef	21.342	2.527	8.141	1.094	--	--	0.059	0.009
+Reckmann et al. 2013	Livestock	Farmed	Pork	7.583	*	1.252	*	0.022	*	0.009	*
+Roop et al. 2013	Livestock	Farmed	Beef	--	--	3.352	3.157	--	--	--	--
+Rotz et al. 2015	Livestock	Farmed	Beef	15.847	*	6.192	*	--	--	--	--
+Williams et al. 2006	Livestock	Farmed	Chicken	4.301	*	1.638	*	0.062	*	0.018	*
+Williams et al. 2006	Livestock	Farmed	Pork	6.494	*	2.473	*	0.154	*	0.039	*
+Zhua and van Ierland 2004	Livestock	Farmed	Pork	15.89	*	3.115	*	0.051	*	0.1	*
