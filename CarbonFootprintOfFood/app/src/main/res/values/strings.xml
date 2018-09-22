@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CarbonFootprintOfFood</string>
+    <string name="intro_text">The food we consume is responsible for over a quarter of our global carbon footprint. Make a difference by dining diligently. Track and reduce the carbon footprint of your meals with AppName.</string>
+    <string-array name="FoodUnitsArray">
+        <item>grams (g)</item>
+        <item>pounds (lbs)</item>
+        <item>milliliters (mL)</item>
+        <item>ounces (oz)</item>
+    </string-array>
+</resources>
